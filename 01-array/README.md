@@ -78,7 +78,8 @@ Dari pembuatan program ini, saya memperoleh beberapa pembelajaran penting, yaitu
 
 **Kesimpulan :**
 Program ini membantu meningkatkan pemahaman dasar pemrograman seperti struktur data, logika, dan pembuatan program yang terorganisir serta mudah dikembangkan.
-     
+
+ # Dibuat Oleh Malvaraina Nursalim (2501010084)    
    
 
   
