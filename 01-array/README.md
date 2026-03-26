@@ -57,18 +57,19 @@ Maka array sangat penting karena memungkinkan pengolahan banyak data secara efis
 # 4. Refleksi Pembelajaran
 
 Dari pembuatan program ini, saya memperoleh beberapa pembelajaran penting, yaitu:
+
 **1. Pemahaman array (list)**
-     - Digunakan untuk menyimpan banyak data dalam satu variabel
+- Digunakan untuk menyimpan banyak data dalam satu variabel
 **2. Penggunaan perulangan (loop)**
-     - Mempermudah pengolahan data secara berulang
+- Mempermudah pengolahan data secara berulang
 **3. Penggunaan percabangan (if)**
-     - Untuk menentukan nilai tertinggi, terendah, dan kelulusan
+- Untuk menentukan nilai tertinggi, terendah, dan kelulusan
 **4. Penggunaan fungsi (function)**
-     - Membuat program lebih terstruktur dan mudah dipahami
+- Membuat program lebih terstruktur dan mudah dipahami
 **5. Validasi input**
-     - Menghindari kesalahan input dari pengguna
+- Menghindari kesalahan input dari pengguna
 **6. Visualisasi data**
-     - Menggunakan grafik untuk mempermudah interpretasi data
+- Menggunakan grafik untuk mempermudah interpretasi data
 
 **Kesimpulan :**
 Program ini membantu meningkatkan pemahaman dasar pemrograman seperti struktur data, logika, dan pembuatan program yang terorganisir serta mudah dikembangkan.
