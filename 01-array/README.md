@@ -36,6 +36,25 @@ Maka array sangat penting karena memungkinkan pengolahan banyak data secara efis
 
    <img width="640" height="480" alt="grafik lulus 2" src="https://github.com/user-attachments/assets/2b7c8855-a793-4b42-a687-f1958476292b" />
 
+
+# 3. Analisis Kompleksitas
+
+| No | Bagian Program     | Kode Terkait                | Penjelasan                                                            | Kompleksitas |
+| -- | ------------------ | --------------------------- | --------------------------------------------------------------------- | ------------ |
+| 1  | Input nilai        | `for i in range(jumlah)`    | Menginput nilai sebanyak n kali (sesuai jumlah mahasiswa)             | O(n)         |
+| 2  | Validasi input     | `while True` + `try-except` | Validasi dilakukan sampai input benar (diasumsikan konstan)           | O(1)         |
+| 3  | Proses data        | `for n in data`             | Loop untuk mencari nilai tertinggi, terendah, total, dan jumlah lulus | O(n)         |
+| 4  | Hitung rata-rata   | `total / len(data)`         | Operasi matematika sederhana                                          | O(1)         |
+| 5  | Hitung tidak lulus | `len(data) - lulus`         | Operasi sederhana                                                     | O(1)         |
+| 6  | Menampilkan hasil  | `print()`                   | Menampilkan output ke layar                                           | O(1)         |
+| 7  | Menampilkan grafik | `plt.bar()`                 | Menampilkan grafik dengan data tetap (tidak tergantung n besar)       | O(1)         |
+
+
+**Kesimpulan :**
+- Kompleksitas total program adalah: O(n)
+- Karena proses utama (input & pengolahan data) dilakukan dengan perulangan sebanyak jumlah data
+   
+
   
   
 
